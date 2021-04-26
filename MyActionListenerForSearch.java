@@ -13,7 +13,7 @@ public class MyActionListenerForSearch implements ActionListener {
     }
     public void actionPerformed(ActionEvent e) {
 
-        System.out.println("Bouton send actionné");
+        System.out.println("send button activated");
         String s = f.message.getText();
         f.message.setText("");
         if (!is_server) {
