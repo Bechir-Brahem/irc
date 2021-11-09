@@ -10,8 +10,10 @@ that supports multiple clients. and users can write using terminal or with the g
   
 ![Interface](images/i1.png)
 <hr>
+
 ![Interface](images/i2.png)
 <hr>
+
 ![Interface](images/i3.png)
 
 
@@ -25,4 +27,5 @@ java Server
 # and then in another terminal
 java Client
 ```
+
 
